@@ -9314,16 +9314,16 @@
         },
         {
             "name": "govcms/govcms",
-            "version": "3.16.0",
+            "version": "3.17.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/govCMS/GovCMS.git",
-                "reference": "1b6733d5036c55ae26b74a15bab093a8b5480bd2"
+                "reference": "f3f34aeeaa1996c168ded274e7414dfce95cb312"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/govCMS/GovCMS/zipball/1b6733d5036c55ae26b74a15bab093a8b5480bd2",
-                "reference": "1b6733d5036c55ae26b74a15bab093a8b5480bd2",
+                "url": "https://api.github.com/repos/govCMS/GovCMS/zipball/f3f34aeeaa1996c168ded274e7414dfce95cb312",
+                "reference": "f3f34aeeaa1996c168ded274e7414dfce95cb312",
                 "shasum": ""
             },
             "require": {
@@ -9422,7 +9422,7 @@
                 "govcms-assets/chosen": "2.2.1",
                 "govcms-assets/dropzone": "5.7.2",
                 "oomphinc/composer-installers-extender": "^2.0",
-                "php": "^8.1.0",
+                "php": "^8.3.0",
                 "webflo/drupal-finder": "^1.2"
             },
             "require-dev": {
@@ -9487,7 +9487,7 @@
                 "source": "https://github.com/GovCMS/GovCMS/releases",
                 "wiki": "https://github.com/GovCMS/GovCMS/wiki"
             },
-            "time": "2024-08-26T01:19:01+00:00"
+            "time": "2024-09-15T23:42:45+00:00"
         },
         {
             "name": "grasmash/expander",

@@ -15353,16 +15353,16 @@
     "packages-dev": [
         {
             "name": "behat/mink",
-            "version": "v1.11.0",
+            "version": "v1.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/minkphp/Mink.git",
-                "reference": "d8527fdf8785aad38455fb426af457ab9937aece"
+                "reference": "7e4edec6c335937029cb3569ce7ef81182804d0a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/minkphp/Mink/zipball/d8527fdf8785aad38455fb426af457ab9937aece",
-                "reference": "d8527fdf8785aad38455fb426af457ab9937aece",
+                "url": "https://api.github.com/repos/minkphp/Mink/zipball/7e4edec6c335937029cb3569ce7ef81182804d0a",
+                "reference": "7e4edec6c335937029cb3569ce7ef81182804d0a",
                 "shasum": ""
             },
             "require": {
@@ -15413,9 +15413,9 @@
             ],
             "support": {
                 "issues": "https://github.com/minkphp/Mink/issues",
-                "source": "https://github.com/minkphp/Mink/tree/v1.11.0"
+                "source": "https://github.com/minkphp/Mink/tree/v1.12.0"
             },
-            "time": "2023-12-09T11:23:23+00:00"
+            "time": "2024-10-30T18:48:14+00:00"
         },
         {
             "name": "behat/mink-browserkit-driver",
@@ -16438,16 +16438,16 @@
         },
         {
             "name": "google/protobuf",
-            "version": "v3.25.5",
+            "version": "v4.28.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/protocolbuffers/protobuf-php.git",
-                "reference": "dd2cf3f7b577dced3851c2ea76c3daa9f8aa0ff4"
+                "reference": "c5c311e0f3d89928251ac5a2f0e3db283612c100"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/dd2cf3f7b577dced3851c2ea76c3daa9f8aa0ff4",
-                "reference": "dd2cf3f7b577dced3851c2ea76c3daa9f8aa0ff4",
+                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/c5c311e0f3d89928251ac5a2f0e3db283612c100",
+                "reference": "c5c311e0f3d89928251ac5a2f0e3db283612c100",
                 "shasum": ""
             },
             "require": {
@@ -16476,9 +16476,9 @@
                 "proto"
             ],
             "support": {
-                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v3.25.5"
+                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v4.28.3"
             },
-            "time": "2024-09-18T22:04:15+00:00"
+            "time": "2024-10-22T22:27:17+00:00"
         },
         {
             "name": "justinrainbow/json-schema",
@@ -17194,20 +17194,20 @@
         },
         {
             "name": "open-telemetry/gen-otlp-protobuf",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/opentelemetry-php/gen-otlp-protobuf.git",
-                "reference": "3aa87bc4d0279ebb53c2917a79f26602625c488e"
+                "reference": "66c3b98e998a726691c92e6405a82e6e7b8b169d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/opentelemetry-php/gen-otlp-protobuf/zipball/3aa87bc4d0279ebb53c2917a79f26602625c488e",
-                "reference": "3aa87bc4d0279ebb53c2917a79f26602625c488e",
+                "url": "https://api.github.com/repos/opentelemetry-php/gen-otlp-protobuf/zipball/66c3b98e998a726691c92e6405a82e6e7b8b169d",
+                "reference": "66c3b98e998a726691c92e6405a82e6e7b8b169d",
                 "shasum": ""
             },
             "require": {
-                "google/protobuf": "^3.3.0",
+                "google/protobuf": "^3.22 || ^4.0",
                 "php": "^8.0"
             },
             "suggest": {
@@ -17253,7 +17253,7 @@
                 "issues": "https://github.com/open-telemetry/opentelemetry-php/issues",
                 "source": "https://github.com/open-telemetry/opentelemetry-php"
             },
-            "time": "2024-04-30T18:28:30+00:00"
+            "time": "2024-10-30T11:49:49+00:00"
         },
         {
             "name": "open-telemetry/sdk",

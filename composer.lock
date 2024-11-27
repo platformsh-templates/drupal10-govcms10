@@ -9510,16 +9510,16 @@
         },
         {
             "name": "grasmash/expander",
-            "version": "3.0.0",
+            "version": "3.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/grasmash/expander.git",
-                "reference": "bb1c1a2430957945cf08c5a62f5d72a6aa6a2c82"
+                "reference": "eea11b9afb0c32483b18b9009f4ca07b770e39f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/grasmash/expander/zipball/bb1c1a2430957945cf08c5a62f5d72a6aa6a2c82",
-                "reference": "bb1c1a2430957945cf08c5a62f5d72a6aa6a2c82",
+                "url": "https://api.github.com/repos/grasmash/expander/zipball/eea11b9afb0c32483b18b9009f4ca07b770e39f4",
+                "reference": "eea11b9afb0c32483b18b9009f4ca07b770e39f4",
                 "shasum": ""
             },
             "require": {
@@ -9556,9 +9556,9 @@
             "description": "Expands internal property references in PHP arrays file.",
             "support": {
                 "issues": "https://github.com/grasmash/expander/issues",
-                "source": "https://github.com/grasmash/expander/tree/3.0.0"
+                "source": "https://github.com/grasmash/expander/tree/3.0.1"
             },
-            "time": "2022-05-10T13:14:49+00:00"
+            "time": "2024-11-25T23:28:05+00:00"
         },
         {
             "name": "grasmash/yaml-cli",
@@ -9943,20 +9943,20 @@
         },
         {
             "name": "halaxa/json-machine",
-            "version": "1.1.4",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/halaxa/json-machine.git",
-                "reference": "5147f38f74d7ab3e27733e3f3bdabbd2fd28e3fa"
+                "reference": "c889fdff2d5a51affae0033464ff24b0ae936b72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/halaxa/json-machine/zipball/5147f38f74d7ab3e27733e3f3bdabbd2fd28e3fa",
-                "reference": "5147f38f74d7ab3e27733e3f3bdabbd2fd28e3fa",
+                "url": "https://api.github.com/repos/halaxa/json-machine/zipball/c889fdff2d5a51affae0033464ff24b0ae936b72",
+                "reference": "c889fdff2d5a51affae0033464ff24b0ae936b72",
                 "shasum": ""
             },
             "require": {
-                "php": "7.0 - 8.3"
+                "php": "7.2 - 8.4"
             },
             "require-dev": {
                 "ext-json": "*",
@@ -9970,6 +9970,9 @@
             },
             "type": "library",
             "autoload": {
+                "files": [
+                    "src/functions.php"
+                ],
                 "psr-4": {
                     "JsonMachine\\": "src/"
                 },
@@ -9990,7 +9993,7 @@
             "description": "Efficient, easy-to-use and fast JSON pull parser",
             "support": {
                 "issues": "https://github.com/halaxa/json-machine/issues",
-                "source": "https://github.com/halaxa/json-machine/tree/1.1.4"
+                "source": "https://github.com/halaxa/json-machine/tree/1.2.0"
             },
             "funding": [
                 {
@@ -9998,7 +10001,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2023-11-28T21:12:40+00:00"
+            "time": "2024-11-24T12:48:58+00:00"
         },
         {
             "name": "html2text/html2text",
@@ -11309,16 +11312,16 @@
         },
         {
             "name": "pear/pear-core-minimal",
-            "version": "v1.10.15",
+            "version": "v1.10.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pear/pear-core-minimal.git",
-                "reference": "ce0adade8b97561656ace07cdaac4751c271ea8c"
+                "reference": "c0f51b45f50683bf5bbf558036854ebc9b54d033"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pear/pear-core-minimal/zipball/ce0adade8b97561656ace07cdaac4751c271ea8c",
-                "reference": "ce0adade8b97561656ace07cdaac4751c271ea8c",
+                "url": "https://api.github.com/repos/pear/pear-core-minimal/zipball/c0f51b45f50683bf5bbf558036854ebc9b54d033",
+                "reference": "c0f51b45f50683bf5bbf558036854ebc9b54d033",
                 "shasum": ""
             },
             "require": {
@@ -11354,7 +11357,7 @@
                 "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=PEAR",
                 "source": "https://github.com/pear/pear-core-minimal"
             },
-            "time": "2024-03-16T18:41:45+00:00"
+            "time": "2024-11-24T22:27:58+00:00"
         },
         {
             "name": "pear/pear_exception",
@@ -15685,16 +15688,16 @@
         },
         {
             "name": "composer/class-map-generator",
-            "version": "1.4.0",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/class-map-generator.git",
-                "reference": "98bbf6780e56e0fd2404fe4b82eb665a0f93b783"
+                "reference": "4b0a223cf5be7c9ee7e0ef1bc7db42b4a97c9915"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/class-map-generator/zipball/98bbf6780e56e0fd2404fe4b82eb665a0f93b783",
-                "reference": "98bbf6780e56e0fd2404fe4b82eb665a0f93b783",
+                "url": "https://api.github.com/repos/composer/class-map-generator/zipball/4b0a223cf5be7c9ee7e0ef1bc7db42b4a97c9915",
+                "reference": "4b0a223cf5be7c9ee7e0ef1bc7db42b4a97c9915",
                 "shasum": ""
             },
             "require": {
@@ -15703,10 +15706,10 @@
                 "symfony/finder": "^4.4 || ^5.3 || ^6 || ^7"
             },
             "require-dev": {
-                "phpstan/phpstan": "^1.6",
-                "phpstan/phpstan-deprecation-rules": "^1",
-                "phpstan/phpstan-phpunit": "^1",
-                "phpstan/phpstan-strict-rules": "^1.1",
+                "phpstan/phpstan": "^1.12 || ^2",
+                "phpstan/phpstan-deprecation-rules": "^1 || ^2",
+                "phpstan/phpstan-phpunit": "^1 || ^2",
+                "phpstan/phpstan-strict-rules": "^1.1 || ^2",
                 "phpunit/phpunit": "^8",
                 "symfony/filesystem": "^5.4 || ^6"
             },
@@ -15738,7 +15741,7 @@
             ],
             "support": {
                 "issues": "https://github.com/composer/class-map-generator/issues",
-                "source": "https://github.com/composer/class-map-generator/tree/1.4.0"
+                "source": "https://github.com/composer/class-map-generator/tree/1.5.0"
             },
             "funding": [
                 {
@@ -15754,7 +15757,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-10-03T18:14:00+00:00"
+            "time": "2024-11-25T16:11:06+00:00"
         },
         {
             "name": "composer/composer",
@@ -16365,7 +16368,7 @@
         },
         {
             "name": "drupal/core-dev",
-            "version": "10.3.9",
+            "version": "10.3.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-dev.git",
@@ -16415,7 +16418,7 @@
             ],
             "description": "require-dev dependencies from drupal/drupal; use in addition to drupal/core-recommended to run tests from drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-dev/tree/10.3.9"
+                "source": "https://github.com/drupal/core-dev/tree/10.3.10"
             },
             "time": "2024-07-04T10:19:29+00:00"
         },
@@ -17584,21 +17587,21 @@
         },
         {
             "name": "php-http/guzzle7-adapter",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-http/guzzle7-adapter.git",
-                "reference": "fb075a71dbfa4847cf0c2938c4e5a9c478ef8b01"
+                "reference": "03a415fde709c2f25539790fecf4d9a31bc3d0eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-http/guzzle7-adapter/zipball/fb075a71dbfa4847cf0c2938c4e5a9c478ef8b01",
-                "reference": "fb075a71dbfa4847cf0c2938c4e5a9c478ef8b01",
+                "url": "https://api.github.com/repos/php-http/guzzle7-adapter/zipball/03a415fde709c2f25539790fecf4d9a31bc3d0eb",
+                "reference": "03a415fde709c2f25539790fecf4d9a31bc3d0eb",
                 "shasum": ""
             },
             "require": {
                 "guzzlehttp/guzzle": "^7.0",
-                "php": "^7.2 | ^8.0",
+                "php": "^7.3 | ^8.0",
                 "php-http/httplug": "^2.0",
                 "psr/http-client": "^1.0"
             },
@@ -17609,14 +17612,11 @@
             },
             "require-dev": {
                 "php-http/client-integration-tests": "^3.0",
+                "php-http/message-factory": "^1.1",
+                "phpspec/prophecy-phpunit": "^2.0",
                 "phpunit/phpunit": "^8.0|^9.3"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "0.2.x-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Http\\Adapter\\Guzzle7\\": "src/"
@@ -17640,9 +17640,9 @@
             ],
             "support": {
                 "issues": "https://github.com/php-http/guzzle7-adapter/issues",
-                "source": "https://github.com/php-http/guzzle7-adapter/tree/1.0.0"
+                "source": "https://github.com/php-http/guzzle7-adapter/tree/1.1.0"
             },
-            "time": "2021-03-09T07:35:15+00:00"
+            "time": "2024-11-26T11:14:36+00:00"
         },
         {
             "name": "php-http/httplug",

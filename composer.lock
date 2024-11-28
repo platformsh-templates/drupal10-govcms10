@@ -9453,44 +9453,44 @@
             },
             "type": "drupal-profile",
             "extra": {
+                "patches": {
+                    "drupal/tfa": {
+                        "Create Email one-time-code Validation Plugin & related Setup Plugin - https://www.drupal.org/project/tfa/issues/2930541": "https://www.drupal.org/files/issues/2023-07-19/tfa-2930541-81.patch"
+                    }
+                },
                 "drupal-scaffold": {
                     "locations": {
                         "web-root": "web/"
                     }
                 },
+                "enable-patching": true,
                 "installer-paths": {
                     "web/core": [
                         "type:drupal-core"
                     ],
-                    "web/modules/contrib/{$name}": [
-                        "type:drupal-module"
-                    ],
-                    "web/modules/custom/{$name}": [
-                        "type:drupal-custom-module"
-                    ],
                     "web/profiles/{$name}": [
                         "type:drupal-profile"
                     ],
-                    "web/themes/contrib/{$name}": [
-                        "type:drupal-theme"
-                    ],
-                    "web/themes/custom/{$name}": [
-                        "type:drupal-custom-theme"
+                    "drush/contrib/{$name}": [
+                        "type:drupal-drush"
                     ],
                     "web/libraries/{$name}": [
                         "type:drupal-library"
                     ],
-                    "drush/contrib/{$name}": [
-                        "type:drupal-drush"
+                    "web/themes/custom/{$name}": [
+                        "type:drupal-custom-theme"
+                    ],
+                    "web/modules/custom/{$name}": [
+                        "type:drupal-custom-module"
+                    ],
+                    "web/themes/contrib/{$name}": [
+                        "type:drupal-theme"
+                    ],
+                    "web/modules/contrib/{$name}": [
+                        "type:drupal-module"
                     ]
                 },
-                "enable-patching": true,
-                "composer-exit-on-patch-failure": true,
-                "patches": {
-                    "drupal/tfa": {
-                        "Create Email one-time-code Validation Plugin & related Setup Plugin - https://www.drupal.org/project/tfa/issues/2930541": "https://www.drupal.org/files/issues/2023-07-19/tfa-2930541-81.patch"
-                    }
-                }
+                "composer-exit-on-patch-failure": true
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [

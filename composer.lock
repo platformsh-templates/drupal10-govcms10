@@ -12749,16 +12749,16 @@
         },
         {
             "name": "simplesamlphp/assert",
-            "version": "v1.5.0",
+            "version": "v1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/assert.git",
-                "reference": "f6872f002d34b8e20c19d0823b107d2c74ddfd9d"
+                "reference": "057a9e90660c4b16c00dab9dd0e337296f7d983e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/f6872f002d34b8e20c19d0823b107d2c74ddfd9d",
-                "reference": "f6872f002d34b8e20c19d0823b107d2c74ddfd9d",
+                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/057a9e90660c4b16c00dab9dd0e337296f7d983e",
+                "reference": "057a9e90660c4b16c00dab9dd0e337296f7d983e",
                 "shasum": ""
             },
             "require": {
@@ -12802,9 +12802,9 @@
             "description": "A wrapper around webmozart/assert to make it useful beyond checking method arguments",
             "support": {
                 "issues": "https://github.com/simplesamlphp/assert/issues",
-                "source": "https://github.com/simplesamlphp/assert/tree/v1.5.0"
+                "source": "https://github.com/simplesamlphp/assert/tree/v1.6.0"
             },
-            "time": "2024-11-19T18:52:10+00:00"
+            "time": "2024-12-04T23:41:43+00:00"
         },
         {
             "name": "simplesamlphp/composer-module-installer",
@@ -13120,16 +13120,16 @@
         },
         {
             "name": "simplesamlphp/xml-common",
-            "version": "v1.20.1",
+            "version": "v1.21.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-common.git",
-                "reference": "525095b5c09072996217d7f4acb9052af9bc9578"
+                "reference": "542827f801b117551cbb0f32817b76ec62e6bf8b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/525095b5c09072996217d7f4acb9052af9bc9578",
-                "reference": "525095b5c09072996217d7f4acb9052af9bc9578",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/542827f801b117551cbb0f32817b76ec62e6bf8b",
+                "reference": "542827f801b117551cbb0f32817b76ec62e6bf8b",
                 "shasum": ""
             },
             "require": {
@@ -13177,7 +13177,7 @@
                 "issues": "https://github.com/simplesamlphp/xml-common/issues",
                 "source": "https://github.com/simplesamlphp/xml-common"
             },
-            "time": "2024-12-03T07:51:40+00:00"
+            "time": "2024-12-04T23:03:06+00:00"
         },
         {
             "name": "simplesamlphp/xml-security",

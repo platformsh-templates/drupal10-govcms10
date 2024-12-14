@@ -4803,7 +4803,7 @@
                     "email": "nacho@isholgueras.com"
                 },
                 {
-                    "name": "Lullabot",
+                    "name": "lullabot",
                     "homepage": "https://www.drupal.org/user/3815489"
                 },
                 {
@@ -13118,16 +13118,16 @@
         },
         {
             "name": "simplesamlphp/xml-common",
-            "version": "v1.21.0",
+            "version": "v1.22.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-common.git",
-                "reference": "542827f801b117551cbb0f32817b76ec62e6bf8b"
+                "reference": "7d7dc3d21d66fc69c2ee79cee29210181f1f2433"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/542827f801b117551cbb0f32817b76ec62e6bf8b",
-                "reference": "542827f801b117551cbb0f32817b76ec62e6bf8b",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/7d7dc3d21d66fc69c2ee79cee29210181f1f2433",
+                "reference": "7d7dc3d21d66fc69c2ee79cee29210181f1f2433",
                 "shasum": ""
             },
             "require": {
@@ -13175,7 +13175,7 @@
                 "issues": "https://github.com/simplesamlphp/xml-common/issues",
                 "source": "https://github.com/simplesamlphp/xml-common"
             },
-            "time": "2024-12-04T23:03:06+00:00"
+            "time": "2024-12-14T12:15:38+00:00"
         },
         {
             "name": "simplesamlphp/xml-security",

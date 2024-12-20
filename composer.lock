@@ -13118,16 +13118,16 @@
         },
         {
             "name": "simplesamlphp/xml-common",
-            "version": "v1.22.1",
+            "version": "v1.23.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-common.git",
-                "reference": "ea339c402b729e9a1b72d4734a3bde3f83ca6c5b"
+                "reference": "86f52b37e0b31191b72900948014fa7ae23de0f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/ea339c402b729e9a1b72d4734a3bde3f83ca6c5b",
-                "reference": "ea339c402b729e9a1b72d4734a3bde3f83ca6c5b",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-common/zipball/86f52b37e0b31191b72900948014fa7ae23de0f5",
+                "reference": "86f52b37e0b31191b72900948014fa7ae23de0f5",
                 "shasum": ""
             },
             "require": {
@@ -13174,20 +13174,20 @@
                 "issues": "https://github.com/simplesamlphp/xml-common/issues",
                 "source": "https://github.com/simplesamlphp/xml-common"
             },
-            "time": "2024-12-14T22:35:27+00:00"
+            "time": "2024-12-19T20:13:10+00:00"
         },
         {
             "name": "simplesamlphp/xml-security",
-            "version": "v1.11.2",
+            "version": "v1.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-security.git",
-                "reference": "42a99a810b7f7b12b9988aa743886b8f45c5c40e"
+                "reference": "797c984b03e1cd52483538ff9e9b762cfbd942c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/42a99a810b7f7b12b9988aa743886b8f45c5c40e",
-                "reference": "42a99a810b7f7b12b9988aa743886b8f45c5c40e",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/797c984b03e1cd52483538ff9e9b762cfbd942c1",
+                "reference": "797c984b03e1cd52483538ff9e9b762cfbd942c1",
                 "shasum": ""
             },
             "require": {
@@ -13236,9 +13236,9 @@
             ],
             "support": {
                 "issues": "https://github.com/simplesamlphp/xml-security/issues",
-                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.11.2"
+                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.12.0"
             },
-            "time": "2024-12-14T22:59:32+00:00"
+            "time": "2024-12-19T20:20:40+00:00"
         },
         {
             "name": "solarium/solarium",

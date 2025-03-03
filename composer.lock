@@ -2890,17 +2890,17 @@
         },
         {
             "name": "drupal/config_split",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/config_split.git",
-                "reference": "2.0.1"
+                "reference": "2.0.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/config_split-2.0.1.zip",
-                "reference": "2.0.1",
-                "shasum": "e033a277995753c564f3a4681b88cd112e19ba2a"
+                "url": "https://ftp.drupal.org/files/projects/config_split-2.0.2.zip",
+                "reference": "2.0.2",
+                "shasum": "efde01f790ca6f6023982e918fe51740da931d3e"
             },
             "require": {
                 "drupal/core": "^8.8 || ^9 || ^10 || ^11"
@@ -2918,8 +2918,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.1",
-                    "datestamp": "1711022056",
+                    "version": "2.0.2",
+                    "datestamp": "1739381800",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -9675,16 +9675,16 @@
         },
         {
             "name": "govcms/govcms",
-            "version": "3.21.1",
+            "version": "3.21.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/govCMS/GovCMS.git",
-                "reference": "aa8642d52a28027e645c3bb78fe33a7aa6936b01"
+                "reference": "6882cdd41fa9183b07fa973e9fcd2b015f0ed7aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/govCMS/GovCMS/zipball/aa8642d52a28027e645c3bb78fe33a7aa6936b01",
-                "reference": "aa8642d52a28027e645c3bb78fe33a7aa6936b01",
+                "url": "https://api.github.com/repos/govCMS/GovCMS/zipball/6882cdd41fa9183b07fa973e9fcd2b015f0ed7aa",
+                "reference": "6882cdd41fa9183b07fa973e9fcd2b015f0ed7aa",
                 "shasum": ""
             },
             "require": {
@@ -9700,7 +9700,7 @@
                 "drupal/config_filter": "2.7.0",
                 "drupal/config_ignore": "3.3.0",
                 "drupal/config_perms": "2.1",
-                "drupal/config_split": "2.0.1",
+                "drupal/config_split": "2.0.2",
                 "drupal/config_update": "2.0.0-alpha4",
                 "drupal/consultation-consultation": "1.0.4",
                 "drupal/consumers": "1.19.0",
@@ -9855,7 +9855,7 @@
                 "source": "https://github.com/GovCMS/GovCMS/releases",
                 "wiki": "https://github.com/GovCMS/GovCMS/wiki"
             },
-            "time": "2025-02-24T00:32:22+00:00"
+            "time": "2025-03-02T22:37:37+00:00"
         },
         {
             "name": "grasmash/expander",

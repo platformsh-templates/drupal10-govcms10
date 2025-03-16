@@ -12525,16 +12525,16 @@
         },
         {
             "name": "psy/psysh",
-            "version": "v0.12.7",
+            "version": "v0.12.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bobthecow/psysh.git",
-                "reference": "d73fa3c74918ef4522bb8a3bf9cab39161c4b57c"
+                "reference": "85057ceedee50c49d4f6ecaff73ee96adb3b3625"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/d73fa3c74918ef4522bb8a3bf9cab39161c4b57c",
-                "reference": "d73fa3c74918ef4522bb8a3bf9cab39161c4b57c",
+                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/85057ceedee50c49d4f6ecaff73ee96adb3b3625",
+                "reference": "85057ceedee50c49d4f6ecaff73ee96adb3b3625",
                 "shasum": ""
             },
             "require": {
@@ -12598,9 +12598,9 @@
             ],
             "support": {
                 "issues": "https://github.com/bobthecow/psysh/issues",
-                "source": "https://github.com/bobthecow/psysh/tree/v0.12.7"
+                "source": "https://github.com/bobthecow/psysh/tree/v0.12.8"
             },
-            "time": "2024-12-10T01:58:33+00:00"
+            "time": "2025-03-16T03:05:19+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -12900,16 +12900,16 @@
         },
         {
             "name": "simplesamlphp/saml2",
-            "version": "v4.17.0",
+            "version": "v4.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/saml2.git",
-                "reference": "bdf16d1021363a0819c35806124a20e74a78c2c9"
+                "reference": "78b1c6735db8e2f78dcea9bcac0317ad2b200d72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/saml2/zipball/bdf16d1021363a0819c35806124a20e74a78c2c9",
-                "reference": "bdf16d1021363a0819c35806124a20e74a78c2c9",
+                "url": "https://api.github.com/repos/simplesamlphp/saml2/zipball/78b1c6735db8e2f78dcea9bcac0317ad2b200d72",
+                "reference": "78b1c6735db8e2f78dcea9bcac0317ad2b200d72",
                 "shasum": ""
             },
             "require": {
@@ -12955,9 +12955,9 @@
             "description": "SAML2 PHP library from SimpleSAMLphp",
             "support": {
                 "issues": "https://github.com/simplesamlphp/saml2/issues",
-                "source": "https://github.com/simplesamlphp/saml2/tree/v4.17.0"
+                "source": "https://github.com/simplesamlphp/saml2/tree/v4.18.1"
             },
-            "time": "2025-03-11T17:35:33+00:00"
+            "time": "2025-03-16T11:37:44+00:00"
         },
         {
             "name": "simplesamlphp/simplesamlphp",

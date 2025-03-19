@@ -9390,16 +9390,16 @@
         },
         {
             "name": "gettext/languages",
-            "version": "2.11.0",
+            "version": "2.12.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-gettext/Languages.git",
-                "reference": "77f3675a9e5d1be15b2064ecf0a1d27348d96cb2"
+                "reference": "0b0b0851c55168e1dfb14305735c64019732b5f1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-gettext/Languages/zipball/77f3675a9e5d1be15b2064ecf0a1d27348d96cb2",
-                "reference": "77f3675a9e5d1be15b2064ecf0a1d27348d96cb2",
+                "url": "https://api.github.com/repos/php-gettext/Languages/zipball/0b0b0851c55168e1dfb14305735c64019732b5f1",
+                "reference": "0b0b0851c55168e1dfb14305735c64019732b5f1",
                 "shasum": ""
             },
             "require": {
@@ -9449,7 +9449,7 @@
             ],
             "support": {
                 "issues": "https://github.com/php-gettext/Languages/issues",
-                "source": "https://github.com/php-gettext/Languages/tree/2.11.0"
+                "source": "https://github.com/php-gettext/Languages/tree/2.12.1"
             },
             "funding": [
                 {
@@ -9461,7 +9461,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-03-18T10:27:00+00:00"
+            "time": "2025-03-19T11:14:02+00:00"
         },
         {
             "name": "gettext/translator",
@@ -18220,7 +18220,7 @@
         },
         {
             "name": "drupal/core-dev",
-            "version": "10.4.4",
+            "version": "10.4.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-dev.git",
@@ -18270,7 +18270,7 @@
             ],
             "description": "require-dev dependencies from drupal/drupal; use in addition to drupal/core-recommended to run tests from drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-dev/tree/10.4.4"
+                "source": "https://github.com/drupal/core-dev/tree/10.4.5"
             },
             "time": "2024-11-21T12:39:32+00:00"
         },

@@ -3312,16 +3312,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "10.3.13",
+            "version": "10.3.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "42cc4288fe6c5f34654d7fecaff0b810870f0faf"
+                "reference": "0503d359645484f76e42231c290d03f831e3d496"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/42cc4288fe6c5f34654d7fecaff0b810870f0faf",
-                "reference": "42cc4288fe6c5f34654d7fecaff0b810870f0faf",
+                "url": "https://api.github.com/repos/drupal/core/zipball/0503d359645484f76e42231c290d03f831e3d496",
+                "reference": "0503d359645484f76e42231c290d03f831e3d496",
                 "shasum": ""
             },
             "require": {
@@ -3470,13 +3470,13 @@
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
             "support": {
-                "source": "https://github.com/drupal/core/tree/10.3.13"
+                "source": "https://github.com/drupal/core/tree/10.3.14"
             },
-            "time": "2025-02-18T22:54:01+00:00"
+            "time": "2025-03-19T15:53:48+00:00"
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "10.3.13",
+            "version": "10.3.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -3520,22 +3520,22 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-composer-scaffold/tree/10.3.13"
+                "source": "https://github.com/drupal/core-composer-scaffold/tree/10.3.14"
             },
             "time": "2024-08-22T14:31:34+00:00"
         },
         {
             "name": "drupal/core-recommended",
-            "version": "10.3.13",
+            "version": "10.3.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "ccb3aa02087b6feb5a4f2a1f622695226e73df69"
+                "reference": "3f64cfb548fac45c56d1e11dee05ca239f41df5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/ccb3aa02087b6feb5a4f2a1f622695226e73df69",
-                "reference": "ccb3aa02087b6feb5a4f2a1f622695226e73df69",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/3f64cfb548fac45c56d1e11dee05ca239f41df5b",
+                "reference": "3f64cfb548fac45c56d1e11dee05ca239f41df5b",
                 "shasum": ""
             },
             "require": {
@@ -3544,7 +3544,7 @@
                 "doctrine/annotations": "~1.14.3",
                 "doctrine/deprecations": "~1.1.3",
                 "doctrine/lexer": "~2.1.1",
-                "drupal/core": "10.3.13",
+                "drupal/core": "10.3.14",
                 "egulias/email-validator": "~4.0.2",
                 "guzzlehttp/guzzle": "~7.8.1",
                 "guzzlehttp/promises": "~2.0.2",
@@ -3605,9 +3605,9 @@
             ],
             "description": "Core and its dependencies with known-compatible minor versions. Require this project INSTEAD OF drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-recommended/tree/10.3.13"
+                "source": "https://github.com/drupal/core-recommended/tree/10.3.14"
             },
-            "time": "2025-02-18T22:54:01+00:00"
+            "time": "2025-03-19T15:53:48+00:00"
         },
         {
             "name": "drupal/crop",
@@ -7078,21 +7078,21 @@
         },
         {
             "name": "drupal/panels",
-            "version": "4.8.0",
+            "version": "4.9.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/panels.git",
-                "reference": "8.x-4.8"
+                "reference": "8.x-4.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/panels-8.x-4.8.zip",
-                "reference": "8.x-4.8",
-                "shasum": "0b947a1af3b2479c8f38d94f8f065e788d023063"
+                "url": "https://ftp.drupal.org/files/projects/panels-8.x-4.9.zip",
+                "reference": "8.x-4.9",
+                "shasum": "7c05719e3af591947159c071c3bacff9d24d2be5"
             },
             "require": {
-                "drupal/core": "^9.2 || ^10",
-                "drupal/ctools": "^3.12 || ^4.0",
+                "drupal/core": "^9.5 || ^10 || ^11",
+                "drupal/ctools": "^3.15 || ^4.1",
                 "drupal/jquery_ui_droppable": "^1.0 || ^2.0"
             },
             "require-dev": {
@@ -7102,8 +7102,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-4.8",
-                    "datestamp": "1718663806",
+                    "version": "8.x-4.9",
+                    "datestamp": "1744218203",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -9689,16 +9689,16 @@
         },
         {
             "name": "govcms/govcms",
-            "version": "3.22.0",
+            "version": "3.23.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/govCMS/GovCMS.git",
-                "reference": "d57d8c873830c8b1538827e8ac601ce4a52aa190"
+                "reference": "c4643d4945eb8462dd88581fe85c9f882423bb6e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/govCMS/GovCMS/zipball/d57d8c873830c8b1538827e8ac601ce4a52aa190",
-                "reference": "d57d8c873830c8b1538827e8ac601ce4a52aa190",
+                "url": "https://api.github.com/repos/govCMS/GovCMS/zipball/c4643d4945eb8462dd88581fe85c9f882423bb6e",
+                "reference": "c4643d4945eb8462dd88581fe85c9f882423bb6e",
                 "shasum": ""
             },
             "require": {
@@ -9720,8 +9720,8 @@
                 "drupal/consumers": "1.19.0",
                 "drupal/contact_storage": "1.4.0",
                 "drupal/context": "5.0.0-rc1",
-                "drupal/core-composer-scaffold": "10.3.13",
-                "drupal/core-recommended": "10.3.13",
+                "drupal/core-composer-scaffold": "10.3.14",
+                "drupal/core-recommended": "10.3.14",
                 "drupal/crop": "2.4.0",
                 "drupal/ctools": "4.1.0",
                 "drupal/devel": "5.3.1",
@@ -9769,7 +9769,7 @@
                 "drupal/minisite": "2.3.0",
                 "drupal/modifiers": "1.6.0",
                 "drupal/module_permissions": "3.2.0",
-                "drupal/panels": "4.8.0",
+                "drupal/panels": "4.9.0",
                 "drupal/paragraphs": "1.18.0",
                 "drupal/password_policy": "4.0.3",
                 "drupal/pathauto": "1.13.0",
@@ -9869,7 +9869,7 @@
                 "source": "https://github.com/GovCMS/GovCMS/releases",
                 "wiki": "https://github.com/GovCMS/GovCMS/wiki"
             },
-            "time": "2025-03-16T22:52:22+00:00"
+            "time": "2025-04-14T01:20:28+00:00"
         },
         {
             "name": "grasmash/expander",

@@ -9626,16 +9626,16 @@
         },
         {
             "name": "google/recaptcha",
-            "version": "1.3.0",
+            "version": "1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/google/recaptcha.git",
-                "reference": "d59a801e98a4e9174814a6d71bbc268dff1202df"
+                "reference": "56522c261d2e8c58ba416c90f81a4cd9f2ed89b9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/google/recaptcha/zipball/d59a801e98a4e9174814a6d71bbc268dff1202df",
-                "reference": "d59a801e98a4e9174814a6d71bbc268dff1202df",
+                "url": "https://api.github.com/repos/google/recaptcha/zipball/56522c261d2e8c58ba416c90f81a4cd9f2ed89b9",
+                "reference": "56522c261d2e8c58ba416c90f81a4cd9f2ed89b9",
                 "shasum": ""
             },
             "require": {
@@ -9674,7 +9674,7 @@
                 "issues": "https://github.com/google/recaptcha/issues",
                 "source": "https://github.com/google/recaptcha"
             },
-            "time": "2023-02-18T17:41:46+00:00"
+            "time": "2025-06-26T22:21:57+00:00"
         },
         {
             "name": "govcms-assets/chosen",
@@ -18320,16 +18320,16 @@
         },
         {
             "name": "dealerdirect/phpcodesniffer-composer-installer",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/composer-installer.git",
-                "reference": "18a95476797ed480b3f2598984bc6f7e1eecc9a8"
+                "reference": "6e0fa428497bf560152ee73ffbb8af5c6a56b0dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/composer-installer/zipball/18a95476797ed480b3f2598984bc6f7e1eecc9a8",
-                "reference": "18a95476797ed480b3f2598984bc6f7e1eecc9a8",
+                "url": "https://api.github.com/repos/PHPCSStandards/composer-installer/zipball/6e0fa428497bf560152ee73ffbb8af5c6a56b0dd",
+                "reference": "6e0fa428497bf560152ee73ffbb8af5c6a56b0dd",
                 "shasum": ""
             },
             "require": {
@@ -18341,7 +18341,7 @@
                 "composer/composer": "^2.2",
                 "ext-json": "*",
                 "ext-zip": "*",
-                "php-parallel-lint/php-parallel-lint": "^1.3.1",
+                "php-parallel-lint/php-parallel-lint": "^1.4.0",
                 "phpcompatibility/php-compatibility": "^9.0",
                 "yoast/phpunit-polyfills": "^1.0"
             },
@@ -18412,7 +18412,7 @@
                     "type": "thanks_dev"
                 }
             ],
-            "time": "2025-05-28T16:05:48+00:00"
+            "time": "2025-06-27T17:24:01+00:00"
         },
         {
             "name": "doctrine/instantiator",
@@ -18537,7 +18537,7 @@
         },
         {
             "name": "drupal/core-dev",
-            "version": "10.5.0",
+            "version": "10.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-dev.git",
@@ -18587,7 +18587,7 @@
             ],
             "description": "require-dev dependencies from drupal/drupal; use in addition to drupal/core-recommended to run tests from drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-dev/tree/10.5.0"
+                "source": "https://github.com/drupal/core-dev/tree/10.5.1"
             },
             "time": "2025-05-14T07:11:14+00:00"
         },

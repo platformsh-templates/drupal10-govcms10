@@ -13162,22 +13162,23 @@
         },
         {
             "name": "simplesamlphp/saml2",
-            "version": "v5.0.3",
+            "version": "v5.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/saml2.git",
-                "reference": "16fff584a3d243c4fb1135a18fef977c36a7a7c0"
+                "reference": "13d7708158ac29299977dab779647c07c4974786"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/saml2/zipball/16fff584a3d243c4fb1135a18fef977c36a7a7c0",
-                "reference": "16fff584a3d243c4fb1135a18fef977c36a7a7c0",
+                "url": "https://api.github.com/repos/simplesamlphp/saml2/zipball/13d7708158ac29299977dab779647c07c4974786",
+                "reference": "13d7708158ac29299977dab779647c07c4974786",
                 "shasum": ""
             },
             "require": {
                 "ext-date": "*",
                 "ext-dom": "*",
                 "ext-filter": "*",
+                "ext-libxml": "*",
                 "ext-openssl": "*",
                 "ext-pcre": "*",
                 "ext-zlib": "*",
@@ -13201,10 +13202,10 @@
             "suggest": {
                 "ext-soap": "*"
             },
-            "type": "simplesamlphp-xmlprovider",
+            "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "v6.0.x-dev"
+                    "dev-master": "v5.0.x-dev"
                 }
             },
             "autoload": {
@@ -13220,22 +13221,14 @@
                 {
                     "name": "Andreas Åkre Solberg",
                     "email": "andreas.solberg@uninett.no"
-                },
-                {
-                    "name": "Jaime Pérez Crespo",
-                    "email": "jaime.perez@uninett.no"
-                },
-                {
-                    "name": "Tim van Dijen",
-                    "email": "tvdijen@gmail.com"
                 }
             ],
             "description": "SAML2 PHP library from SimpleSAMLphp",
             "support": {
                 "issues": "https://github.com/simplesamlphp/saml2/issues",
-                "source": "https://github.com/simplesamlphp/saml2/tree/v5.0.3"
+                "source": "https://github.com/simplesamlphp/saml2/tree/v5.0.4"
             },
-            "time": "2025-09-09T22:31:48+00:00"
+            "time": "2025-09-10T08:09:36+00:00"
         },
         {
             "name": "simplesamlphp/saml2-legacy",

@@ -13093,16 +13093,16 @@
         },
         {
             "name": "robrichards/xmlseclibs",
-            "version": "3.1.4",
+            "version": "3.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/robrichards/xmlseclibs.git",
-                "reference": "bc87389224c6de95802b505e5265b0ec2c5bcdbd"
+                "reference": "03062be78178cbb5e8f605cd255dc32a14981f92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/robrichards/xmlseclibs/zipball/bc87389224c6de95802b505e5265b0ec2c5bcdbd",
-                "reference": "bc87389224c6de95802b505e5265b0ec2c5bcdbd",
+                "url": "https://api.github.com/repos/robrichards/xmlseclibs/zipball/03062be78178cbb5e8f605cd255dc32a14981f92",
+                "reference": "03062be78178cbb5e8f605cd255dc32a14981f92",
                 "shasum": ""
             },
             "require": {
@@ -13129,9 +13129,9 @@
             ],
             "support": {
                 "issues": "https://github.com/robrichards/xmlseclibs/issues",
-                "source": "https://github.com/robrichards/xmlseclibs/tree/3.1.4"
+                "source": "https://github.com/robrichards/xmlseclibs/tree/3.1.5"
             },
-            "time": "2025-12-08T11:57:53+00:00"
+            "time": "2026-03-13T10:31:56+00:00"
         },
         {
             "name": "sebastian/diff",
@@ -13415,16 +13415,16 @@
         },
         {
             "name": "simplesamlphp/saml2-legacy",
-            "version": "v4.19.1",
+            "version": "v4.19.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/saml2-legacy.git",
-                "reference": "a9812c7fc0bb7cee9ce001e8cc94570c37acdfb2"
+                "reference": "93df4bffc052939e74ec0c1208e66cbd7eb2a1b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/saml2-legacy/zipball/a9812c7fc0bb7cee9ce001e8cc94570c37acdfb2",
-                "reference": "a9812c7fc0bb7cee9ce001e8cc94570c37acdfb2",
+                "url": "https://api.github.com/repos/simplesamlphp/saml2-legacy/zipball/93df4bffc052939e74ec0c1208e66cbd7eb2a1b2",
+                "reference": "93df4bffc052939e74ec0c1208e66cbd7eb2a1b2",
                 "shasum": ""
             },
             "require": {
@@ -13433,7 +13433,7 @@
                 "ext-zlib": "*",
                 "php": ">=7.1 || ^8.0",
                 "psr/log": "~1.1 || ^2.0 || ^3.0",
-                "robrichards/xmlseclibs": "^3.1.4",
+                "robrichards/xmlseclibs": "^3.1.5",
                 "webmozart/assert": "^1.9"
             },
             "conflict": {
@@ -13469,9 +13469,9 @@
             ],
             "description": "SAML2 PHP library from SimpleSAMLphp",
             "support": {
-                "source": "https://github.com/simplesamlphp/saml2-legacy/tree/v4.19.1"
+                "source": "https://github.com/simplesamlphp/saml2-legacy/tree/v4.19.2"
             },
-            "time": "2025-12-08T12:05:03+00:00"
+            "time": "2026-03-13T12:09:45+00:00"
         },
         {
             "name": "simplesamlphp/simplesamlphp",
@@ -13702,16 +13702,16 @@
         },
         {
             "name": "simplesamlphp/xml-security",
-            "version": "v1.13.8",
+            "version": "v1.13.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/xml-security.git",
-                "reference": "5e9c726889676911a499b44e15046227015a4947"
+                "reference": "16a5cf4a107e1b607337ff5af5fb4051fcc23ba0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/5e9c726889676911a499b44e15046227015a4947",
-                "reference": "5e9c726889676911a499b44e15046227015a4947",
+                "url": "https://api.github.com/repos/simplesamlphp/xml-security/zipball/16a5cf4a107e1b607337ff5af5fb4051fcc23ba0",
+                "reference": "16a5cf4a107e1b607337ff5af5fb4051fcc23ba0",
                 "shasum": ""
             },
             "require": {
@@ -13760,9 +13760,9 @@
             ],
             "support": {
                 "issues": "https://github.com/simplesamlphp/xml-security/issues",
-                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.13.8"
+                "source": "https://github.com/simplesamlphp/xml-security/tree/v1.13.9"
             },
-            "time": "2025-12-08T12:08:30+00:00"
+            "time": "2026-03-13T15:41:00+00:00"
         },
         {
             "name": "simplesamlphp/xml-soap",

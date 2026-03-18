@@ -13201,16 +13201,16 @@
         },
         {
             "name": "simplesamlphp/assert",
-            "version": "v1.8.3",
+            "version": "v1.8.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/assert.git",
-                "reference": "01b4e706daafb109e9fabbf3b4497d2f4dada035"
+                "reference": "7250fb858b025032590078fc4cc52a4c1b634dbb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/01b4e706daafb109e9fabbf3b4497d2f4dada035",
-                "reference": "01b4e706daafb109e9fabbf3b4497d2f4dada035",
+                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/7250fb858b025032590078fc4cc52a4c1b634dbb",
+                "reference": "7250fb858b025032590078fc4cc52a4c1b634dbb",
                 "shasum": ""
             },
             "require": {
@@ -13218,7 +13218,7 @@
                 "ext-filter": "*",
                 "ext-pcre": "*",
                 "ext-spl": "*",
-                "guzzlehttp/psr7": "~2.7.1",
+                "guzzlehttp/psr7": "~2.7",
                 "php": "^8.1",
                 "webmozart/assert": "~1.11.0"
             },
@@ -13254,9 +13254,9 @@
             "description": "A wrapper around webmozart/assert to make it useful beyond checking method arguments",
             "support": {
                 "issues": "https://github.com/simplesamlphp/assert/issues",
-                "source": "https://github.com/simplesamlphp/assert/tree/v1.8.3"
+                "source": "https://github.com/simplesamlphp/assert/tree/v1.8.4"
             },
-            "time": "2025-10-28T16:40:50+00:00"
+            "time": "2026-03-18T11:27:23+00:00"
         },
         {
             "name": "simplesamlphp/composer-module-installer",
@@ -17591,7 +17591,7 @@
         },
         {
             "name": "twig/intl-extra",
-            "version": "v3.23.0",
+            "version": "v3.24.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/intl-extra.git",
@@ -17639,7 +17639,7 @@
                 "twig"
             ],
             "support": {
-                "source": "https://github.com/twigphp/intl-extra/tree/v3.23.0"
+                "source": "https://github.com/twigphp/intl-extra/tree/v3.24.0"
             },
             "funding": [
                 {

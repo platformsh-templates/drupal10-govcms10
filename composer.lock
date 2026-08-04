@@ -6127,12 +6127,20 @@
                     "role": "Maintainer"
                 },
                 {
+                    "name": "idebr",
+                    "homepage": "https://www.drupal.org/user/1879760"
+                },
+                {
                     "name": "johnwebdev",
                     "homepage": "https://www.drupal.org/user/3331569"
                 },
                 {
                     "name": "mark_fullmer",
                     "homepage": "https://www.drupal.org/user/2612816"
+                },
+                {
+                    "name": "utexas",
+                    "homepage": "https://www.drupal.org/user/3716409"
                 }
             ],
             "description": "Linkit - Enriched linking experience",
